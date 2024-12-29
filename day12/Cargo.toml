@@ -1,0 +1,12 @@
+[package]
+name = "day12"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+criterion = { version = "0.5", features = ["html_reports"] }
+itertools = "0.13.0"
+geo = "0.29.3"
+
